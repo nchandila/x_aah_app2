@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_aah_customapp2.table_app2_user" name="x_aah_customapp2.table_app2_user">9d7e0da0dba5001028e5dbdb5e961906</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-02 19:32:24</sys_created_on>
+        <sys_id>657e0da0dba5001028e5dbdb5e96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9d7e0da0dba5001028e5dbdb5e961906</sys_name>
+        <sys_package display_value="app2" source="x_aah_customapp2">a64d0d60dba5001028e5dbdb5e96196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app2">a64d0d60dba5001028e5dbdb5e96196a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_657e0da0dba5001028e5dbdb5e96190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-02 19:32:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
